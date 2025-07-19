@@ -5,13 +5,13 @@ This project analyze a dataset from a fictional supermarket chain to uncover key
 
 **TABE OF CONTENT** 
 
-**PROJECT SUMMARY AND OBJECTIVES** 
+[PROJECT SUMMARY AND OBJECTIVES](https://github.com/OlajesuOgunyemi/Supermarket-Sales-Analysis#1-project-summary-and-objectives) 
 
-**DATASET DESCRIPTION** 
+[DATASET DESCRIPTION](https://github.com/OlajesuOgunyemi/Supermarket-Sales-Analysis#2-data-description) 
 
-**ENVIRONMENT AND TOOLS** 
+[ENVIRONMENT AND TOOLS](https://github.com/OlajesuOgunyemi/Supermarket-Sales-Analysis#3-environment-and-tools) 
 
-**STEP BY  STEP DATA ANALYSIS** 
+[STEP BY  STEP DATA ANALYSIS](https://github.com/OlajesuOgunyemi/Supermarket-Sales-Analysis#4-step-by-step-analysis) 
 
      Loading and inspecting the data 
 
@@ -26,9 +26,8 @@ This project analyze a dataset from a fictional supermarket chain to uncover key
     Question 4 : Top Store by sales and traffic
     
 
-**RECOMMENDATION** 
+[RECOMMENDATION](https://github.com/OlajesuOgunyemi/Supermarket-Sales-Analysis#5-recommendation) 
 
-**KEY FINDINGS**
 
 
 
