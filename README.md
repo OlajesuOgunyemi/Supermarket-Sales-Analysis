@@ -25,6 +25,7 @@ This project analyze a dataset from a fictional supermarket chain to uncover key
 
     Question 4 : Top Store by sales and traffic
     
+[KEY FINDINGS](https://github.com/OlajesuOgunyemi/Supermarket-Sales-Analysis/edit/main/README.md#5-key-findings-) 
 
 [RECOMMENDATION](https://github.com/OlajesuOgunyemi/Supermarket-Sales-Analysis#5-recommendation) 
 
@@ -108,7 +109,22 @@ Ensured no missing values and proper datatype
 
 **top5 = df.nlargest(5, 'Store_Sales')**
 
-## 5 RECOMMENDATION** 
+## 5 KEY FINDINGS : 
+
+Even though this is a small dataset, it stimulate a real world business case in which an analyst is tasked with identifying store level performance drivers. By analyzing simple metric and understanding customer behavior pattern, i show how a business can begin to optimize resources, restructure underperforming location, or invest more in profitable branches.
+
+This project also emphasizes foundational python skills 
+
+Data loading with pandas 
+
+Data cleaning and integrity check 
+
+Use of summary statistics 
+
+Understanding correlation between variables 
+
+Simple data filtering and indexing 
+## 6 RECOMMENDATION  
 
   **Expand Analysis** : Add visualization (e.g scatter plot) for presentation or dashboard project 
 
