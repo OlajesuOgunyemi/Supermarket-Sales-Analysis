@@ -25,6 +25,10 @@ This project analyze a dataset from a fictional supermarket chain to uncover key
 
     Question 4 : Top Store by sales and traffic
     
+    Question 5 : What is the trend between store area and daily customer count 
+
+    Question 6 : Which store has the highest customer to area ratio 
+    
 [KEY FINDINGS](https://github.com/OlajesuOgunyemi/Supermarket-Sales-Analysis/edit/main/README.md#5-key-findings-) 
 
 [RECOMMENDATION](https://github.com/OlajesuOgunyemi/Supermarket-Sales-Analysis#5-recommendation) 
@@ -108,6 +112,17 @@ Ensured no missing values and proper datatype
 **f) Question 4** : Top 5 store by sales 
 
 **top5 = df.nlargest(5, 'Store_Sales')**
+
+
+**g) Question 5 :** What is the trend between store area and daily customer count 
+
+**df['area_group'] = pd.cut(df['Store_Area']** 
+
+
+**h) Question 6 :** Which store has the highest customer to area ratio 
+
+**df['customer_area_ratio']=df['Daily_Customer_Count']/df['Store_Area']** 
+
 
 ## 5 KEY FINDINGS : 
 
